@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cef99e24-ea5e-46a9-a519-7047e8a50601" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1gosIq5zhsZOozzgYgKFSXrgJHk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cef99e24-ea5e-46a9-a519-7047e8a50601" name="Default Changelist" comment="" />
+      <created>1598792202588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598792202588</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="5" width="812" height="730" key="#Intentions" timestamp="1598794748944">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state x="278" y="5" width="812" height="730" key="#Intentions/0.0.1366.735@0.0.1366.735" timestamp="1598794748944" />
+    <state x="471" y="163" width="425" height="420" key="#Web_Browsers" timestamp="1598792545486">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state x="471" y="163" width="425" height="420" key="#Web_Browsers/0.0.1366.735@0.0.1366.735" timestamp="1598792545486" />
+    <state x="89" y="62" width="436" height="489" key="FileChooserDialogImpl" timestamp="1599247734815">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state x="89" y="62" width="436" height="489" key="FileChooserDialogImpl/0.0.1366.735@0.0.1366.735" timestamp="1599247734815" />
+    <state x="187" y="0" width="992" height="735" key="SettingsEditor" timestamp="1599247848815">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state x="187" y="0" width="992" height="735" key="SettingsEditor/0.0.1366.735@0.0.1366.735" timestamp="1599247848815" />
+    <state x="446" y="91" width="804" height="644" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1599247818321">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state x="446" y="91" width="804" height="644" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.735@0.0.1366.735" timestamp="1599247818321" />
+    <state x="437" y="306" width="552" height="175" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1598792282361">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state x="437" y="306" width="552" height="175" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1366.735@0.0.1366.735" timestamp="1598792282361" />
+  </component>
+</project>
